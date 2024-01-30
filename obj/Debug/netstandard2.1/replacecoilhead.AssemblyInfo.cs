@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("replacecoilhead")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+332b0dcc3befb067b84d2dd4398331b58fb3a7ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("replacecoilhead")]
 [assembly: System.Reflection.AssemblyTitleAttribute("replacecoilhead")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -114,3 +114,4 @@ C:\Users\user\source\repos\replacecoilhead\replacecoilhead\obj\Debug\netstandard
 C:\Users\user\source\repos\replacecoilhead\replacecoilhead\obj\Debug\netstandard2.1\replacecoilhead.csproj.CopyComplete
 C:\Users\user\source\repos\replacecoilhead\replacecoilhead\obj\Debug\netstandard2.1\replacecoilhead.dll
 C:\Users\user\source\repos\replacecoilhead\replacecoilhead\obj\Debug\netstandard2.1\replacecoilhead.pdb
+C:\Users\user\source\repos\replacecoilhead\replacecoilhead\obj\Debug\netstandard2.1\replacecoilhead.sourcelink.json
